@@ -2,7 +2,7 @@ project_name: "summarygenerationpublic"
 
 application: dashboard-summarization {
   label: "Dashboard Insights Powered by Vertex AI"
-  url: "extensions/dashboard_summarization/bundle.js"
+  url: "extensions/dashboard_summarization.js"
   mount_points: {
     dashboard_vis: no
     dashboard_tile: yes
